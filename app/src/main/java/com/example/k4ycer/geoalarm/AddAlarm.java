@@ -45,6 +45,7 @@ public class AddAlarm extends AppCompatActivity implements OnMapReadyCallback {
 
     @Override
     protected void onResume() {
+        // Aqui hay un cambio
         super.onResume();
         mapView.onResume();
     }
