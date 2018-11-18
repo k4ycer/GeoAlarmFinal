@@ -27,6 +27,5 @@
         <item name="colorControlActivated">@color/orange</item>
         <item name="android:background">@drawable/backwithborder</item>
     </style>
-    </style>
 
 </resources>
