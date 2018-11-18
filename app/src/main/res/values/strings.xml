@@ -9,4 +9,5 @@
     <string name="Editar">Editar</string>
     <string name="Agregar">Agregar</string>
     <string name="Alarmas">Alarmas</string>
+    <string name="txtAddAlarm">Add Alarm</string>
 </resources>
